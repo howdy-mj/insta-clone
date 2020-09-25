@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "profile": "https://cdn.pixabay.com/user/2014/05/07/00-10-34-2_48x48.jpg",
+    "name": "hamburger",
+    "img": "https://cdn.pixabay.com/photo/2015/04/20/13/25/burger-731298_960_720.jpg",
+    "likes": 4,
+    "text": "수제버거 먹고싶다"
+  },
+  {
+    "id": 2,
+    "profile": "https://cdn.pixabay.com/user/2017/08/03/10-16-32-389_48x48.png",
+    "name": "coffee",
+    "img": "https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537_960_720.jpg",
+    "likes": 2100,
+    "text": "몸에 커피 흐를듯.. ☕️"
+  },
+  {
+    "id": 3,
+    "profile": "https://cdn.pixabay.com/photo/2013/07/24/03/33/road-166543__180.jpg",
+    "name": "wanna_trip",
+    "img": "https://cdn.pixabay.com/photo/2014/01/04/12/34/street-238458_960_720.jpg",
+    "likes": 1542,
+    "text": "여행 가고싶다"
+  },
+  {
+    "id": 4,
+    "profile": "https://cdn.pixabay.com/user/2020/09/02/13-03-54-865_48x48.png",
+    "name": "bike",
+    "img": "https://cdn.pixabay.com/photo/2020/09/09/13/03/bike-riding-5557589_960_720.png",
+    "likes": 334,
+    "text": "자전거"
+  },
+  {
+    "id": 5,
+    "profile": "https://media.istockphoto.com/photos/coronavirus-cell-isolated-picture-id1210775161?b=1&k=6&m=1210775161&s=170667a&w=0&h=sVxsItzg5RM10ipZmOWcvrrOMgyXG7JEe7W9h6W6FWs=",
+    "name": "covid",
+    "img": "https://cdn.pixabay.com/photo/2020/03/15/18/36/wash-4934590_960_720.jpg",
+    "likes": 42,
+    "text": "손 잘 씻기"
+  },
+
+  {
+    "id": 6,
+    "profile": "https://pixabay.com/static/img/profile_image_dummy.svg",
+    "name": "reading",
+    "img": "https://cdn.pixabay.com/photo/2016/01/19/01/42/library-1147815_960_720.jpg",
+    "likes": 3,
+    "text": "도서관 인증"
+  },
+  {
+    "id": 7,
+    "profile": "https://media.istockphoto.com/photos/red-apple-picture-id184276818?b=1&k=6&m=184276818&s=170667a&w=0&h=Tpx9Uf0l5RZsaHY2cfP3RyT4Vo5INyavYdprAKzOiFY=",
+    "name": "apple",
+    "img": "https://cdn.pixabay.com/photo/2016/04/09/07/32/laptop-1317581_960_720.jpg",
+    "likes": 101,
+    "text": "MacBook 삼"
+  },
+  {
+    "id": 8,
+    "profile": "https://cdn.pixabay.com/photo/2017/03/27/14/55/photographer-2179204_960_720.jpg",
+    "name": "inmybag",
+    "img": "https://cdn.pixabay.com/photo/2020/05/11/15/52/canon-5158887_960_720.jpg",
+    "likes": 56,
+    "text": "What's in my bag"
+  }
+]

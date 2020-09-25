@@ -1,11 +1,13 @@
 import React from 'react';
+import Clone from './Clone';
 
-function App() {
+const App: React.FC = () => {
   return (
     <>
-      <div>App</div>
+      <div></div>
+      <Clone />
     </>
   );
-}
+};
 
 export default App;
