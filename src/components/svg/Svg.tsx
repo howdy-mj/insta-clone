@@ -14,11 +14,11 @@ export interface SvgProps {
 /**
  * SVG 컴포넌트
  */
-const SVG: FC<SvgProps> = ({
+export const SVG: FC<SvgProps> = ({
   ariaLabel,
   fill = '#262626',
-  height = '22',
-  width = '22',
+  height = 22,
+  width = 22,
   viewBox = '0 0 48 48',
   d,
   clipRule,
@@ -38,5 +38,3 @@ const SVG: FC<SvgProps> = ({
     </svg>
   );
 };
-
-export default SVG;
