@@ -1,8 +1,8 @@
 // SVG
-export { HomeSVG } from './svg';
-export { DirectSVG } from './svg';
-export { CompassSVG } from './svg';
-export { HeartSVG } from './svg';
-export { OptionsSVG } from './svg';
-export { CommentSVG } from './svg';
-export { BookMarkSVG } from './svg';
+export { HomeSVG } from './svg/allSvg';
+export { DirectSVG } from './svg/allSvg';
+export { CompassSVG } from './svg/allSvg';
+export { HeartSVG } from './svg/allSvg';
+export { OptionsSVG } from './svg/allSvg';
+export { CommentSVG } from './svg/allSvg';
+export { BookMarkSVG } from './svg/allSvg';

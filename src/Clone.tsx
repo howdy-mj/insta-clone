@@ -296,7 +296,7 @@ const Clone: React.FC = () => {
       .then((data) => data.json())
       .then((data) => setStory(data));
   }, []);
-  console.log(story);
+  // console.log(story);
 
   useEffect(() => {
     fetch('/data/userFeed.json')
@@ -422,8 +422,8 @@ const Clone: React.FC = () => {
                 </RecommendTitle>
                 <RecommendFriends>
                   {story &&
-                    story.slice(0, 2).map((item) => (
-                      <Friend>
+                    story.slice(0, 2).map((item, index) => (
+                      <Friend key={index}>
                         <div>
                           <CircleProfileImg
                             src={item.profile}
