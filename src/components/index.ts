@@ -6,3 +6,8 @@ export { HeartSVG } from './svg/allSvg';
 export { OptionsSVG } from './svg/allSvg';
 export { CommentSVG } from './svg/allSvg';
 export { BookMarkSVG } from './svg/allSvg';
+
+// UI
+export { BorderGray } from './styled';
+export { FlexSpaceBetween } from './styled';
+export { CircleProfileImg } from './styled';
